@@ -1,0 +1,31 @@
+{
+  "name": "node-plot",
+  "version": "1.0.0",
+  "description": "An universal Node.js plotting library with pluggable web graph/plot library support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastayoda/node-plot.git"
+  },
+  "keywords": [
+    "plot",
+    "graph",
+    "universal",
+    "native",
+    "multisupport",
+    "headless"
+  ],
+  "author": "Victor O. Santos Uceta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mastayoda/node-plot/issues"
+  },
+  "homepage": "https://github.com/mastayoda/node-plot#readme",
+  "dependencies": {
+    "nunjucks": "^2.4.2",
+    "phantom": "^2.0.10"
+  }
+}
